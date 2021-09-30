@@ -599,6 +599,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Paws](https://paws.com/careers) | London, UK | Phone screening, take-home project, on-site pairing/discussion on your solution and meet the team.
 - [Paybase](https://paybase.io) | London, UK | Phone screening, Take home project, On-site interview for technical and culture fit, Open Q&A session with team
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, Canada | Remote programming interview, on-site "meet the team"
+- [Payd](https://careers.justpayd.com) | Singapore, Singapore; Penang, Malaysia; Kuala Lumpur, Malaysia; Remote | 3 stages all remote: 1. Take-home exercise using supplied project similar in structure to the deployed code base (max 3 hours), 2. Discussion using (1) as ice breaker (max 1 hour), 3. Meet the team and gauge culture fit (max 2 hours)
 - [Peaksware Companies (TrainingPeaks, TrainHeroic, MakeMusic)](https://peaksware.com) | Boulder, CO; Denver, CO | Phone screen, take home project, remote and on-site interviews for technical and cultural fit
 - [PeerStreet](https://info.peerstreet.com/careers) | Los Angeles, CA | Phone, take home project & on-site to meet the team
 - [Pento](https://angel.co/pento/jobs) | Remote | Quick personal interview, take home project
